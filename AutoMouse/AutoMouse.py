@@ -7,7 +7,7 @@ print("\n__Developer__: Jack Jabra\n")
 print("__Copyright__: Copyright © 2022 Jack Jabra\n")
 print("__License__: Public\n")
 print("__Version: 1.0\n")
-print("DISCLAIMER: I will not be held responsible for the illigitimate use of this tool.\n")
+print("DISCLAIMER: I will not be held responsible for the illegitimate use of this tool.\n")
 
 print('ATTENTION: In order to terminate this script, please use CTRL+C while the console is visible. \nOtherwise move your mouse to the top left corner of your screen to terminate.\n \n')
 
