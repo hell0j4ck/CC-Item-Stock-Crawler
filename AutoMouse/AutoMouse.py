@@ -13,7 +13,7 @@ print('ATTENTION: In order to terminate this script, please use CTRL+C while the
 
 input('Press ENTER to continue...\n \n \n \n \n')
 
-def fuckthegov():
+def moveclick():
     
     counter=0
     
@@ -29,7 +29,7 @@ def fuckthegov():
         continue
         
         
-def fuckthegovnoclick():
+def movenoclick():
     
     counter=0
     
@@ -74,12 +74,12 @@ while True:
         
         if click == 'y' or click == 'Y':
 
-            fuckthegov()
+            moveclick()
             break
 
         elif click == 'n' or click == 'N':
 
-            fuckthegovnoclick()
+            movenoclick()
             break
 
 
